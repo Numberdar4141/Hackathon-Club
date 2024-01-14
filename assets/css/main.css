@@ -2500,6 +2500,7 @@ footer {
   background-size: cover;
   background-position: center center;
   height: 110vh;
+
 }
 
 #hero-area {
@@ -2650,6 +2651,7 @@ div#clock {
     background-size: cover;
     background-position: center;
     height: 100vh;
+    width: 445px;
   }
   #hero-register {
   }
